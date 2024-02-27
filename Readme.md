@@ -1,3 +1,1 @@
-# Personal Portfolio
-
-> https://ramghimirecr7.github.io/
+# Personal Portfolio of Ram Ghimire
